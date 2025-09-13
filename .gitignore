@@ -1,0 +1,19 @@
+# Environment and configuration files
+**/.env
+.env
+.env.*
+
+# Visual Studio / VS Code
+**/.vs/
+.vs/
+**/.vscode/*
+!**/.vscode/extensions.json
+!**/.vscode/launch.json
+!**/.vscode/tasks.json
+
+# Visual Studio solution/project files
+**/*.sln
+**/*.pyproj
+**/*.esproj
+**/*.esproj.user
+**/*.pyproj.user
